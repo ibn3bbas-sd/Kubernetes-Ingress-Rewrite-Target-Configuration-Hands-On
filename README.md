@@ -543,7 +543,7 @@ MIT License — free to use for learning and reference.
 
 ## 👤 Author
 
-Created as a **practical reference for Kubernetes Ingress rewrite-target configuration** based on **NGINX Ingress Controller** best practices and real-world implementation experience.
+Created as a **practical reference for Kubernetes Ingress rewrite-target configuration** based on **NGINX Ingress Controller** best practices and real-world implementation experience, this articl from **CKAD Course in KodeKloud**.
 
 ---
 
